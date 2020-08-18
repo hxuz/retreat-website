@@ -1,5 +1,11 @@
 a:link {
-  color: #98aeca;
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffffff;
   background-color: transparent;
   text-decoration: none;
 }
@@ -7,13 +13,13 @@ a:link {
 a:hover {
   color: #e0e7ef;
   background-color: transparent;
-/*  text-decoration: underline;*/
+  text-decoration: underline;
 }
 
 a:active {
-  color: #98aeca;
+  color: #ffffff;
   background-color: transparent;
-/*  text-decoration: underline;*/
+  text-decoration: none;
 }
 
 .header{
