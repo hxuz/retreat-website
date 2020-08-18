@@ -11,9 +11,9 @@ a:visited {
 }
 
 a:hover {
-  color: #98aeca;
+  color: #333333;
   background-color: transparent;
-  text-decoration: underline;
+/*  text-decoration: underline;*/
   transition: 0.3s ease;
 
 }
