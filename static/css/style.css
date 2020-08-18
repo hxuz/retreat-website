@@ -15,3 +15,7 @@ a:active {
   background-color: transparent;
 /*  text-decoration: underline;*/
 }
+
+.header{
+  background-image: url("../images/martin-adams-uZZw2vh8eqY-unsplash.png")
+}
