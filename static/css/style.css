@@ -1,0 +1,17 @@
+a:link {
+  color: #98aeca;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e0e7ef;
+  background-color: transparent;
+/*  text-decoration: underline;*/
+}
+
+a:active {
+  color: #98aeca;
+  background-color: transparent;
+/*  text-decoration: underline;*/
+}
