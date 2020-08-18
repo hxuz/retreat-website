@@ -11,9 +11,11 @@ a:visited {
 }
 
 a:hover {
-  color: #e0e7ef;
+  color: #98aeca;
   background-color: transparent;
   text-decoration: underline;
+  transition: 0.3s ease;
+
 }
 
 a:active {
@@ -22,6 +24,66 @@ a:active {
   text-decoration: none;
 }
 
+h1 {
+  font-size: 48px;
+  color: white;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 36px;
+  color: #333333;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 18px;
+  color: #333333;
+  font-weight: 300;
+  line-height: 150%; 
+}
+
 .header{
-  background-image: url("../images/martin-adams-uZZw2vh8eqY-unsplash.png")
+  background-image: url("../images/martin-adams-unsplash.png");
+  background-size: 100%;
+}
+
+#button-center {
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.button {
+  background-color: #98aeca;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: "open sans";
+  font-weight: 300;
+  border-radius: 24px;
+}
+
+.button:hover {
+  background-color: #333333;
+  text-decoration: underline;
+  font-weight: 300;
+  transition: 0.3s ease;
+}
+
+#email {
+  border-color: #f7f7f7;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: "open sans";
+  font-weight: 300;
+  border-radius: 6px;
 }
