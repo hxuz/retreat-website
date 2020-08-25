@@ -184,7 +184,7 @@ h6 {
   min-width: 60vw;
   max-width: 90vw;
   margin: 0 auto;
-  position: absolute;
+  position: fixed;
   top:50%;
   left:50%;
   transform: translate(-50%, -50%);
