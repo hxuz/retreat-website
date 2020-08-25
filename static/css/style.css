@@ -110,11 +110,11 @@ h5 {
   transition: 0.3s ease;
 }
 
-.vert-center {
+/*.vert-center {
   position: relative;
   transform: translatey(25%);
   top: 50%;
-}
+}*/
 
 #email {
   border-color: #f7f7f7;

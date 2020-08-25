@@ -7,7 +7,7 @@ window.onscroll = function() {
     document.getElementById("nav-bar").style.top = "0";
     // document.getElementById("nav-bar").style.backgroundColor = "hsla(0, 0%, 20%, 0.85)";
   } else {
-    document.getElementById("nav-bar").style.top = "-96px";
+    document.getElementById("nav-bar").style.top = "-144px";
   }
   prevScrollpos = currentScrollPos;
 }
